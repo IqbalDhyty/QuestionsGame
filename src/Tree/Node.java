@@ -4,11 +4,11 @@ package Tree;
 
 public class Node {
     // 
-    String answer;
+    public String answer;
     
     // Left and Right for 
-    Node right;
-    Node left;
+    public Node right;
+    public Node left;
 
     // Method Constructor
     // Gunakan ini nanti dalam logika pembuatan tree
